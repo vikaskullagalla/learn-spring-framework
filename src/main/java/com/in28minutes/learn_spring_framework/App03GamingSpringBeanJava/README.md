@@ -1,0 +1,2 @@
+GamingConsole --> SuperContraGame
+GameRunner --> GamingConsole
